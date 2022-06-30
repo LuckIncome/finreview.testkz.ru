@@ -1,0 +1,1 @@
+Nginx_1.21 | PHP_8.0 | MariaDB-10.4
